@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Misbah 👋
 
-<!--
-**misbahmughal-ml/misbahmughal-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Student
+- 💻 Interested in Machine Learning and AI
+- 🌱 Currently learning and building my programming skills
+- 🚀 Exploring new technologies and working on projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- C/C++
+- Object-Oriented Programming (OOP)
+- Python
+- Machine Learning
+- Git & GitHub
+
+## Connect with me
+Thanks for visiting my profile! 😊
+:::
